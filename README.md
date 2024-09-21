@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there 👋, I'm Henry Blackwell!
+
+I am currently studying a Bachelor of Biomedical Engineering and a Bachelor of Science at the University of Sydney. This semester I am an exchange student at the University of Edinburgh and whilst here I am looking forward to learning more about:
+- Bioinformatics
+- Operations Management
+- Molecular Genetics
+
+With these new skills I hope to be able to further my own personal development for when I return to Australia. 
+
+Back home I am looking to develop my professional skills in Engineering through an internship program, that will hopefully lead to further growth.
 
 <!--
 **HenryBlackwellEDI24/HenryBlackwellEDI24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
